@@ -1,1 +1,14 @@
 apiVersion: v1
+entries:
+  novel:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-21T17:58:02.6695267+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 70507d7d422b8c94d7e00037eb005fcac301a200734f87b6dd9d7f1dd3ea1483
+    name: novel
+    type: application
+    urls:
+    - novel-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-21T17:58:02.6655266+08:00"
