@@ -3,7 +3,7 @@ entries:
   novel:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-21T17:58:02.6695267+08:00"
+    created: "2023-04-21T18:12:27.5534093+08:00"
     description: A Helm chart for Kubernetes
     digest: 70507d7d422b8c94d7e00037eb005fcac301a200734f87b6dd9d7f1dd3ea1483
     name: novel
@@ -11,4 +11,15 @@ entries:
     urls:
     - novel-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-21T17:58:02.6655266+08:00"
+  novel-fe:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-21T18:12:27.5544103+08:00"
+    description: A Helm chart for Kubernetes
+    digest: e84504a18a7607f83f9c7fd3fd182b011ff22aab932d63c49e333d100e1b3d80
+    name: novel-fe
+    type: application
+    urls:
+    - novel-fe-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-21T18:12:27.5504103+08:00"
